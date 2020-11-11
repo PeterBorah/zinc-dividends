@@ -1,0 +1,9 @@
+//!
+//! The 'dividends' circuit entry.
+//!
+
+fn main(witness: u8) -> u8 {
+    dbg!("Zello, World!");
+
+    witness
+}
