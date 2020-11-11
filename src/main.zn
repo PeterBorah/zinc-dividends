@@ -5,5 +5,5 @@
 fn main(witness: u8) -> u8 {
     dbg!("Zello, World!");
 
-    witness
+    witness - 1
 }
